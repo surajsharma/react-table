@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+}
+
+.table{
+
+    width: 70vw !important;
+    overflow: scroll;
+    padding: 10px;
+    font-size: 0.8em;
+}
+
+.details{
+    padding: 10px;
+}
+
+
+.shipment-name{
+    width: 100%;
+    border:0;
+    font-size: 1em;
+    background: lightyellow;
+}
